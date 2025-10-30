@@ -18,10 +18,9 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CutrelyAlex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-</p>
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=%25E7%258C%25AB%25E7%258C%25AB&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=%25E7%258C%25AB%25E7%258C%25AB&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=%25E7%258C%25AB%25E7%258C%25AB&theme=default&hide_border=true)
 
 ## 🌐 联系方式 | Contact Me
 
