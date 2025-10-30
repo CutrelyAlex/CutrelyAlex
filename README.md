@@ -1,14 +1,7 @@
 <div align="center">
 
-<!-- 科幻动态欢迎Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=欢迎%20来到%20猫猫D菌%20的仓库&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-<!-- 动态打字效果的自我介绍 -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+a+passionate+developer+%F0%9F%9A%80;Exploring+the+frontiers+of+technology;Game+Dev+%7C+Software+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <em>
@@ -18,9 +11,8 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=%25E7%258C%25AB%25E7%258C%25AB&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=%25E7%258C%25AB%25E7%258C%25AB&theme=default&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=%25E7%258C%25AB%25E7%258C%25AB&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CutrelyAlex&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=CutrelyAlex&theme=default&hide_border=true)
 
 ## 🌐 联系方式 | Contact Me
 
