@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 科幻动态欢迎Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20CutrelyAlex's%20Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=欢迎%20来到%20猫猫D菌%20的仓库&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 <!-- 动态打字效果的自我介绍 -->
 <p align="center">
