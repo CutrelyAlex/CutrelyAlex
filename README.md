@@ -3,14 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=欢迎%20来到%20猫猫D菌%20的仓库&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 
-<p align="center">
-  <em>
-    🌌 热爱游戏开发，探索技术边界 <br>
-    🎮 游戏开发爱好者
-  </em>
-</p>
-
----
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CutrelyAlex&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 
