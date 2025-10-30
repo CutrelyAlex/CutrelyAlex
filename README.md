@@ -12,29 +12,15 @@
 
 <p align="center">
   <em>
-    🌌 热爱编程，探索技术边界 <br>
-    🎮 游戏开发爱好者 | 💻 全栈开发者 | 🔧 工具开发者
+    🌌 热爱游戏开发，探索技术边界 <br>
+    🎮 游戏开发爱好者
   </em>
 </p>
 
 ---
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CutrelyAlex&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophy" />
-</p>
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CutrelyAlex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CutrelyAlex&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🌐 联系方式 | Contact Me
