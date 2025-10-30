@@ -6,7 +6,7 @@
 <!-- 动态打字效果的自我介绍 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+a+passionate+developer+%F0%9F%9A%80;Exploring+the+frontiers+of+technology;Game+Dev+%7C+Software+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+a+passionate+developer+%F0%9F%9A%80;Exploring+the+frontiers+of+technology;Game+Dev+%7C+Software+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CutrelyAlex&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CutrelyAlex&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </p>
 
 ---
