@@ -12,7 +12,7 @@
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CutrelyAlex&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://streak-stats.demolab.com?user=CutrelyAlex&theme=default&hide_border=true)
+
 
 ## 🌐 联系方式 | Contact Me
 
