@@ -4,6 +4,11 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CutrelyAlex&theme=default&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CutrelyAlex&theme=github-dark&locale=zh_Hans&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CutrelyAlex&bg_color=1e2129&color=bec1c6&line=526cfe&point=bec1c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=CutrelyAlex&color=orange)
 
 
 ## 🌐 联系方式 | Contact Me
