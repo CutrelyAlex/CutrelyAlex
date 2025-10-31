@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://qm.qq.com/q/Y9qMERwx4Q">
-    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ" />
+    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=QQ&logoColor=white" alt="QQ" />
   </a>
   <a href="https://space.bilibili.com/104644407">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
