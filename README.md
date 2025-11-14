@@ -17,6 +17,10 @@
   <a href="https://space.bilibili.com/104644407">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
+    <a href="mailto:huangqongtong%40gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-huangqongtong%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Gmail" />
+  </a>
 </p>
 
 ---
