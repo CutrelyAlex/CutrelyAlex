@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=欢迎%来到%20猫猫D菌%20的仓库&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CutrelyAlex&theme=default&show_icons=true&hide_border=true&count_private=false&rank_icon=percentile)
+<img src="https://githubstatus.sdjz.wiki/api?username=CutrelyAlex&border_radius=12&commits_year=2025&include_all_commits=true&rank_icon=github&ring_color=9b59b6" alt="GitHub Stats" />
 
 ![](https://komarev.com/ghpvc/?username=CutrelyAlex&color=orange)
 
