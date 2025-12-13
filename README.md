@@ -38,6 +38,11 @@
   <img src="https://img.shields.io/badge/HTML-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTML" />
 </p>
 
+## 个人介绍 | About Me
+- 游戏开发者,经常参加Gamejam,主要使用Unity | Game developer, frequently participate in Game Jams, primarily using Unity
+- 深圳技术大学在读学生 | Current student at Shenzhen Technology University
+- 喜欢玩各领域的开发，有几个小项目，欢迎扩列交流点子~ | Enjoy exploring development in various fields, have several small projects, welcome to connect and exchange ideas!
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
