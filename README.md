@@ -38,10 +38,40 @@
   <img src="https://img.shields.io/badge/HTML-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTML" />
 </p>
 
-## 个人介绍 | About Me
-- 游戏开发者,经常参加Gamejam,主要使用Unity | Game developer, frequently participate in Game Jams, primarily using Unity
-- 深圳技术大学在读学生 | Current student at Shenzhen Technology University
-- 喜欢玩各领域的开发，有几个小项目，欢迎扩列交流点子~ | Enjoy exploring development in various fields, have several small projects, welcome to connect and exchange ideas!
+## 🎮 个人介绍 | About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=游戏开发者+%7C+Game+Developer;深圳技术大学学生+%7C+SZTU+Student;全栈爱好者+%7C+Full-stack+Enthusiast" alt="Typing SVG" />
+</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>🎮 游戏开发</h3>
+        <p>经常参加Game Jam，《噬莱姆计划》开发者</p>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>💻 全栈开发</h3>
+        <p>喜欢探索不同领域的开发，做一些有趣的小玩具</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>🤝 开源贡献</h3>
+        <p>积极参与开源项目，分享代码，共同进步</p>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>💬 技术交流</h3>
+        <p>欢迎扩列，交流技术，碰撞创意的火花！</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
