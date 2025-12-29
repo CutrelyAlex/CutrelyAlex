@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=CutrelyAlex&color=orange)
 
 
-## 🌐 联系方式 | Contact Me
+## 🌐 联系方式 | Contact Me 🌐
 
 <p align="center">
   <a href="https://qm.qq.com/q/Y9qMERwx4Q">
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ 技术栈 | Tech Stack
+## 技术栈 | Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -38,10 +38,9 @@
   <img src="https://img.shields.io/badge/HTML-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTML" />
 </p>
 
-## 🎮 个人介绍 | About Me
+## 个人介绍 | About Me
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=游戏开发者+%7C+Game+Developer;深圳技术大学学生+%7C+SZTU+Student;全栈爱好者+%7C+Full-stack+Enthusiast" alt="Typing SVG" />
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=400&pause=1000&center=true&width=435&lines=%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85+%7C+GameDeveloper;%E6%B7%B1%E5%9C%B3%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6+%7C+SZTU+Student" alt="Typing SVG" /></a>
 <table align="center">
   <tr>
     <td align="center" width="50%">
